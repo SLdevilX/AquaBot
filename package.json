@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sanuwaofficial/AquaBot.git"
+    "url": "git+https://github.com/SLdevilX/AquaBot.git"
   },
   "keywords": [
     "whatsapp",
@@ -26,9 +26,9 @@
   "developer": "sanuwa",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/sanuwaofficial/AquaBot/issues"
+    "url": "https://github.com/SLdevilX/AquaBot/issues"
   },
-  "homepage": "https://github.com/sanuwaofficial/AquaBot",
+  "homepage": "https://github.com/SLdevilX/AquaBot",
   "dependencies": {
    
     "aquabot": "^1.0.0",
